@@ -5,7 +5,7 @@ A fancy mod achieved a part of Survivalcraft 2.1
 * 所有染料桶可编辑
 * 另外还添加了真彩方块和半透明真彩方块各16777216 (2^24)个，可编辑，创造物品栏每种只显示4096个
 
-##English
+## English
 * Added "Edit RGB Color Value Dialog", it can make any colors you want.
 * All the paint buckets are editable.
 * Added "True Color Block" and "Alpha True Color Block" (editable), and each of them contains 16777216 (2^24) colors, but the creative inventory only show 4096 colors.
